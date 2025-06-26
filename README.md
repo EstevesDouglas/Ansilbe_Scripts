@@ -59,9 +59,10 @@ source chirpstack_env/bin/activate
 .\chirpstack_env\Scripts\activate
 
 # Verify Python version
-python --version
+python3 --version
 
 # Upgrade pip
+sudo apt-get install pip
 pip install --upgrade pip
 ```
 
