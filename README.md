@@ -44,7 +44,7 @@ This project contains Ansible playbooks and configurations for deploying and man
 ```bash
 git clone <repository-url>
 cd LHC_Ansible
-apt install python3.12-venv
+sudo apt install python3.12-venv
 ```
 
 2. Set up Python virtual environment:
