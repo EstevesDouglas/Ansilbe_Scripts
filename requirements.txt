@@ -1,4 +1,4 @@
-ansible==6.3.0
+ansible==11.7.0
 ansible-core==2.13.4
 cffi==1.15.1
 cryptography==38.0.1
