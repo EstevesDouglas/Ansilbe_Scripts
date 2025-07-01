@@ -1,11 +1,11 @@
-ansible-core==2.18.6        # lançado em 19 de maio de 2025 :contentReference[oaicite:1]{index=1}
-ansible==10.1.0             
-cffi==1.16.0                # última versão lançada em 27 abr/2025 no PyPI
-cryptography==41.0.0        # versão estável de jun/2025 no PyPI
-Jinja2==3.1.2               # permanece estável e comum com Ansible
-MarkupSafe==2.1.2           # versão compatível com Jinja2
-packaging==23.1             # pacote de parsing atualizado em mar/2025
-pycparser==2.21             # continua estável, sem atualizações recentes
-pyparsing==3.1.1            # ajuste menor de 3.0.9
-PyYAML==6.0                 # continua sendo a versão usada
-resolvelib==1.0.1           # versão atualizada lançada abr/2025
+ansible==10.1.0
+cffi==1.16.0 
+cryptography==41.0.0 
+Jinja2==3.1.2     
+MarkupSafe==2.1.2      
+packaging==23.1           
+pycparser==2.21          
+pyparsing==3.1.1        
+PyYAML==6.0.2      
+resolvelib==1.0.1 
+                                                  
