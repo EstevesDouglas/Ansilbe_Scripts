@@ -40,6 +40,13 @@ This directory contains Ansible playbooks and configurations for deploying a com
 
 ## Deployment
 
+# update linux client
+```
+sudo apt install -y python3 python3-apt python3-pip
+sudo apt install --reinstall python3-apt
+
+```
+
 ```bash
 # Make sure your virtual environment is activated
 source ../chirpstack_env/bin/activate  # Linux/macOS
